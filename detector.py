@@ -16,7 +16,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
 
-window_name = "Human Detector - Rayan UPN"
+window_name = "Human Detector"
 prev_time = 0
 
 print("✅ Program Aktif. Mencari objek manusia...")
